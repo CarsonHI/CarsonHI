@@ -1,4 +1,4 @@
-HI I`M CARSONHI
+# HI I`M CARSONHI
 
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
@@ -7,7 +7,7 @@ HI I`M CARSONHI
 - 😄 Pronouns: 888
 - ⚡ Fu
 
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarsonHI&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarsonHI&show_icons=true)
 
 <!---
 CarsonHI/CarsonHI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
